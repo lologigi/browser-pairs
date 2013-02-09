@@ -104,6 +104,7 @@ body {
 .ns {background: url(http://www.mtv.co.uk/files/imagecache/300x225/files/2011/06/20/edsheeran2.jpg) no-repeat; background-size: contain;}
 .tb {background: url(http://24.media.tumblr.com/5787dfe7c1a1fc83fe4b0c86d3af7e72/tumblr_mg6u68QB0R1s0bny0o1_500.png) no-repeat; background-size: contain;}
 .fm {background: url(http://blogs.independent.co.uk/wp-content/uploads/2010/12/ED-SHEERAN.jpg) no-repeat; background-size: contain;}
+background-repeat: repeat;
 
 
 /* The .reset class is added to the cards when the game is reset */
