@@ -115,7 +115,7 @@ body {
 
 /* The #gameIntro element holds the screen that shows when you start the app */
 #gameIntro {
-  text-align: center;
+  text-align: left;
   position: absolute;
   margin: 10px;
   top: 0;
@@ -197,7 +197,7 @@ body {
 }
 
 #gameComplete a.button {
-  background: white;
+  background: black;
   border-radius: 5px;
   display: block;
   font-size: 30px;
