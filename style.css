@@ -234,7 +234,7 @@ body {
 }
 
 .front {
-  background: url(http://images6.fanpop.com/image/photos/32900000/Cat-cats-32958715-1440-900.jpg) 0 0;
+  background: url(http://images6.fanpop.com/image/photos/32900000/Cat-cats-32958715-1440-900.jpg);
   z-index: 10;
   border-radius: 4px;
 }
