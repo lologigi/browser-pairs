@@ -96,14 +96,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(http://userserve-ak.last.fm/serve/252/69059276.png) no-repeat; background-size: contain;}
+.fx {background: url(http://media.soundonsound.com/sos/jan12/images/JG_09.jpg) no-repeat; background-size: contain;}
+.cr {background: url(http://media.ticketmaster.co.uk/tm/en-gb/dbimages/30664a.jpg) no-repeat; background-size: contain;}
+.sf {background: url(http://3.bp.blogspot.com/-7QpQr_f8m58/UPcp_O2FRFI/AAAAAAAALhc/-K3npRsf9zM/s1600/Ed-Sheeran.jpeg) no-repeat; background-size: contain;}
+.op {background: url(http://images6.fanpop.com/image/photos/32600000/Ed-ed-sheeran-x-32626060-500-313.jpg) no-repeat; background-size: contain;}
+.ns {background: url(http://www.mtv.co.uk/files/imagecache/300x225/files/2011/06/20/edsheeran2.jpg) no-repeat; background-size: contain;}
+.tb {background: url(http://24.media.tumblr.com/5787dfe7c1a1fc83fe4b0c86d3af7e72/tumblr_mg6u68QB0R1s0bny0o1_500.png) no-repeat; background-size: contain;}
+.fm {background: url(http://blogs.independent.co.uk/wp-content/uploads/2010/12/ED-SHEERAN.jpg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
