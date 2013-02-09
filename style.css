@@ -130,7 +130,7 @@ body {
 #game.open #gameIntro {
   opacity: 1;
   z-index: 3;
-  background: url(http://media.npr.org/assets/img/2012/09/20/stripey-kitty-d1332c13945e17c5add3810e5ca39c269af872b8-s6-c10.jpg) center center no-repeat;
+  background: url(http://images6.fanpop.com/image/photos/32900000/Cat-cats-32958715-1440-900.jpg) center center repeat;
 }
 
 #game.play #gameIntro, #game.end #gameIntro {
